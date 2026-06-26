@@ -1,5 +1,7 @@
 # PDF Summarizer — ZCode Skill
 
+[English version →](README_EN.md) | [GitHub Repo](https://github.com/Niever-Ridk/pdf-summarizer)
+
 从 PDF 文件中提取文本并生成结构化中文总结的 **ZCode Skill**。
 
 📄 给一个 PDF 路径 → 产出一篇层次清晰、重点突出、**结论可靠**的结构化总结。
